@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 A python project for managing student records and analyzing class performance. 
 
 Features:
@@ -50,3 +51,7 @@ Future Improvements:
 Author:
 
 Developed by Palak while learning Python programming and object-oriented programming.
+=======
+# student-record-analyzer
+This is a beginner-friendly Python project that manages student records and performs basic analysis of class performance. The program allows users to enter student names and marks, then displays useful information such as the class average, topper, failed students, and unique marks.
+>>>>>>> 6f6899ea8e29f26c04cfaba344a8f70c987b1bfa
