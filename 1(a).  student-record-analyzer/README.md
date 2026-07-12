@@ -1,6 +1,6 @@
 A python project for managing student records and analyzing class performance. 
 
-Features:
+Features
 
 - Add multiple student records
 - Store student names and marks using a dictionary
@@ -9,7 +9,7 @@ Features:
 - Display students who failed (marks below 40)
 - Display all unique marks in the class
 
-Concepts Used:
+Concepts Used
 
 - Classes and Objects
 - Dictionaries
@@ -19,17 +19,17 @@ Concepts Used:
 - User Input
 - Basic Data Processing
 
-Requirements:
+Requirements
 
 - Python 3.x
 
-How to Run:
+How to Run
 
 1. Download or clone this repository.
 2. Open a terminal in the project folder.
 3. Run the following command: python student_manager.py
 
-Sample Output:
+Sample Output
 
 The program displays:
 
@@ -39,14 +39,6 @@ The program displays:
 - Failed students
 - Unique marks obtained by students
 
-Future Improvements:
-
-- Add input validation
-- Handle invalid input using exception handling
-- Save records using file handling
-- Add search, update, and delete functionality
-- Improve the project structure by separating different functionalities into multiple files
-
-Author:
+Author
 
 Developed by Palak while learning Python programming and object-oriented programming.
